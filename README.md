@@ -8,6 +8,8 @@ Pasos:
 4- crear el executable del archivo main.c con sudo g++ -o executable main.c
 5- runeo el executable con sudo ./executable
 
+pd: no agregue el executable porque lo tendria que hacer el usuario, debe compilar el programa desde su sistema con gcc o g++
+
 (codigo inicial)
 ```
 #include <sys/mman.h>
