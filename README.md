@@ -1,5 +1,14 @@
-https://github.com/Alehdzz/Gestion-de-la-Memoria-Alejandro_Hernandez.git
 # Gestion-de-la-Memoria-Alejandro_Hernandez
+https://github.com/Alehdzz/Gestion-de-la-Memoria-Alejandro_Hernandez.git
+
+Pasos:
+1- Instalar wsl desde la consola con wsl-install
+2- crear el main.c
+3- instalamos g++ sudo apt install g++
+4- crear el executable del archivo main.c con sudo g++ -o executable main.c
+5- runeo el executable con sudo ./executable
+
+(codigo inicial)
 #include <sys/mman.h>
 #include <stdio.h>
 #include <stdlib.h>
