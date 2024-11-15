@@ -1,0 +1,3 @@
+C:/Users/aleja/OneDrive/Desktop/Gestion-de-la-Memoria-Alejandro_Hernandez/cmake-build-debug/CMakeFiles/Gestion_de_la_Memoria_Alejandro_Hernandez.dir
+C:/Users/aleja/OneDrive/Desktop/Gestion-de-la-Memoria-Alejandro_Hernandez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleja/OneDrive/Desktop/Gestion-de-la-Memoria-Alejandro_Hernandez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
