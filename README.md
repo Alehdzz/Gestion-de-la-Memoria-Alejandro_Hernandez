@@ -9,6 +9,7 @@ Pasos:
 5- runeo el executable con sudo ./executable
 
 (codigo inicial)
+```
 #include <sys/mman.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -42,6 +43,7 @@ int main() {
 
     return 0;
 }
+```
 Explicación paso a paso:
 
 Primero, importamos las bibliotecas necesarias para la asignación de memoria y la creación de procesos.
